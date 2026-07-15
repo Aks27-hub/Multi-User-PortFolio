@@ -1,0 +1,6 @@
+{
+  "name": "Multi-User Portfolio Builder",
+  "description": "A full-stack multi-user portfolio builder application that allows users to register, log in, manage their profile, projects, work experience, and view generated public portfolios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
