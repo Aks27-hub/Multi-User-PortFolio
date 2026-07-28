@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "testuser_1784140277862",
+      "email": "testuser_1784140277862@example.com",
+      "password_hash": "$2b$10$YYfAsDtS1WoZ4bvc4Ailtu3aZ9EocYorxHnqhWptIsp1L0dhP9Twu",
+      "created_at": "2026-07-15T18:31:18.033Z"
+    },
+    {
+      "id": 2,
+      "username": "testuser_1784140361344",
+      "email": "testuser_1784140361344@example.com",
+      "password_hash": "$2b$10$SNMwepoH1powxgOkoa16n.JPa/MegPuaVB1vzVBqoDZmDVT4PpVsC",
+      "created_at": "2026-07-15T18:32:41.481Z"
+    },
+    {
+      "id": 3,
+      "username": "testuser_1784140372978",
+      "email": "testuser_1784140372978@example.com",
+      "password_hash": "$2b$10$1FD44cAxyIuL.FZrG3weA.z7DTymDEJfgz2FbXYhCDjh4xOsOfku2",
+      "created_at": "2026-07-15T18:32:53.147Z"
+    },
+    {
+      "id": 4,
+      "username": "jsuser_1785214497020",
+      "email": "jsuser_1785214497020@example.com",
+      "password_hash": "$2b$10$TOiWHaugMk8zvEgQRdZV4OyIe8etZuZc0l7Jxstwdr7BOdf77iHIu",
+      "created_at": "2026-07-28T04:54:57.142Z"
+    }
+  ],
+  "profiles": [
+    {
+      "id": 1,
+      "user_id": 1,
+      "full_name": "testuser_1784140277862",
+      "title": "New Portfolio Creator",
+      "bio": "Welcome to my portfolio! Let's write something amazing about myself.",
+      "avatar_url": null,
+      "github_url": null,
+      "linkedin_url": null,
+      "email_contact": "testuser_1784140277862@example.com",
+      "created_at": "2026-07-15T18:31:18.033Z"
+    },
+    {
+      "id": 2,
+      "user_id": 2,
+      "full_name": "testuser_1784140361344",
+      "title": "New Portfolio Creator",
+      "bio": "Welcome to my portfolio! Let's write something amazing about myself.",
+      "avatar_url": null,
+      "github_url": null,
+      "linkedin_url": null,
+      "email_contact": "testuser_1784140361344@example.com",
+      "created_at": "2026-07-15T18:32:41.481Z"
+    },
+    {
+      "id": 3,
+      "user_id": 3,
+      "full_name": "testuser_1784140372978",
+      "title": "New Portfolio Creator",
+      "bio": "Welcome to my portfolio! Let's write something amazing about myself.",
+      "avatar_url": null,
+      "github_url": null,
+      "linkedin_url": null,
+      "email_contact": "testuser_1784140372978@example.com",
+      "created_at": "2026-07-15T18:32:53.148Z"
+    },
+    {
+      "id": 4,
+      "user_id": 4,
+      "full_name": "jsuser_1785214497020",
+      "title": "New Portfolio Creator",
+      "bio": "Welcome to my portfolio! Let's write something amazing about myself.",
+      "avatar_url": null,
+      "github_url": null,
+      "linkedin_url": null,
+      "email_contact": "jsuser_1785214497020@example.com",
+      "created_at": "2026-07-28T04:54:57.143Z"
+    }
+  ],
+  "projects": [],
+  "experiences": []
+}
