@@ -61,4 +61,4 @@ bash
 npm run dev
 ```
 
-Open your web browser and navigate to the url generater
+Open your web browser and navigate to the url generated.
