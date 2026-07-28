@@ -12,16 +12,16 @@ Unzip the downloaded file onto your computer.
 
 Open your terminal (or Command Prompt / PowerShell) and change directory to the unzipped project folder:
 
-```
 bash
+```
 cd path/to/unzipped-portfolio-builder
 ```
 
 ## Step 2: Install Dependencies
 Install all necessary packages (Express, React, Vite, Tailwind, JWT, bcrypt, mysql2, etc.) by running:
 
-```
 bash
+```
 npm install
 ```
 
@@ -29,9 +29,8 @@ npm install
 
 Create a .env file in the root directory if you want to connect to a live MySQL database or customize your JWT secret key:
 
-```
 Env
-
+```
 # Server Configuration
 
 PORT=3000
